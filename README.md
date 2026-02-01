@@ -30,7 +30,7 @@ Practice instantly. No accounts. No tracking. Just learning.
 | AZ-900 – Microsoft Azure Fundamentals | MICROSOFT | ✅ Available | 208 | https://www.uaidan.com/microsoft-az900/questions/page/01/ |
 | CISSP - Certified Information Systems Security Professional | ISC² | ✅ Available | 282 | https://www.uaidan.com/isc-cissp/questions/page/01/ |
 | CEH – Certified Ethical Hacker V13 | EC-COUNCIL | ✅ Available | 192 | https://www.uaidan.com/eccouncil-ceh/questions/page/01/ |
-| Associate Cloud Engineer | Google Cloud | ✅ Available | 285 | https://www.uaidan.com/google-associate-cloud-engineer/questions/page/01/ |
+| Google Associate Cloud Engineer | Google Cloud | ✅ Available | 285 | https://www.uaidan.com/google-associate-cloud-engineer/questions/page/01/ |
 | AWS Certified Solutions Architect – Professional | AMAZON | ✅ Available | 529 | https://www.uaidan.com/aws-solutions-architect-professional/questions/page/01/ |
 | AZ-305 – Designing Microsoft Azure Infrastructure Solutions | MICROSOFT | ✅ Available | 178 | https://www.uaidan.com/microsoft-az305/questions/page/01/ |
 | AWS Certified Security – Specialty | AMAZON | ✅ Available | 299 | https://www.uaidan.com/aws-security-specialty/questions/page/01/ |
