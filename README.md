@@ -33,31 +33,33 @@ Practice instantly. No accounts. No tracking. Just learning.
 | Google Associate Cloud Engineer | Google Cloud | ✅ Available | 285 | https://www.uaidan.com/google-associate-cloud-engineer/questions/page/01/ |
 | Google Professional Cloud Security Engineer | Google Cloud | ✅ Available | 344 | https://www.uaidan.com/google-professional-cloud-security-engineer/questions/page/01/ |
 | AWS Certified Solutions Architect – Professional | AMAZON | ✅ Available | 529 | https://www.uaidan.com/aws-solutions-architect-professional/questions/page/01/ |
+| Google Professional Cloud Architect | Google Cloud | ✅ Available | 295 | https://www.uaidan.com/google-professional-cloud-architect/questions/page/01/ |
+| Google Professional Cloud Developer | Google Cloud | ✅ Available | 349 | https://www.uaidan.com/google-professional-cloud-developer/questions/page/01/ |
+| Google Cloud Digital Leader | Google Cloud | ✅ Available | 287 | https://www.uaidan.com/google-cloud-digital-leader/questions/page/01/ |
 | AZ-305 – Designing Microsoft Azure Infrastructure Solutions | MICROSOFT | ✅ Available | 178 | https://www.uaidan.com/microsoft-az305/questions/page/01/ |
 | AWS Certified Security – Specialty | AMAZON | ✅ Available | 299 | https://www.uaidan.com/aws-security-specialty/questions/page/01/ |
 | AWS Certified DevOps Engineer – Professional | AMAZON | ✅ Available | 390 | https://www.uaidan.com/aws-devops-engineer/questions/page/01/ |
 | CCSP – Certified Cloud Security Professional | ISC² | ✅Available | 511 | https://www.uaidan.com/isc-ccsp/questions/page/01/ |
 | AZ-500 – Microsoft Azure Security Technologies | MICROSOFT | ✅ Available | 265 | https://www.uaidan.com/microsoft-az500/questions/page/01/ |
 | CySA+ – CompTIA Cybersecurity Analyst | CompTIA | ✅ Available | 466 | https://www.uaidan.com/comptia-cysa/questions/page/01/ |
+| Google Professional Cloud DevOps Engineer | Google Cloud | ✅ Available | 196 | https://www.uaidan.com/google-professional-cloud-devops-engineer/questions/page/01/ |
 | SSCP – Systems Security Certified Practitioner | ISC² | ✅ Available | 180 | https://www.uaidan.com/isc-sscp/questions/page/01/ |
 | CISM – Certified Information Security Manager | ISACA | ✅ Available | 295 | https://www.uaidan.com/isaca-cism/questions/page/01/ |
 | CISA – Certified Information Systems Auditor | ISACA | ✅ Available | 295 | https://www.uaidan.com/isaca-cisa/questions/page/01/ |
 | CRISC – Certified in Risk and Information Systems Control | ISACA | ✅ Available | 1452 | https://www.uaidan.com/isaca-crisc/questions/page/01/ |
 | DP-203 – Data Engineering on Microsoft Azure | MICROSOFT | ✅ Available | 236 | https://www.uaidan.com/microsoft-dp203/questions/page/01/ |
 | AI-900 – Microsoft Azure AI Fundamentals | MICROSOFT | ✅ Available | 128 | https://www.uaidan.com/microsoft-ai900/questions/page/01/ |
+| Google Generative AI Leader | Google Cloud | ✅ Available | 55 | https://www.uaidan.com/google-generative-ai-leader/questions/page/01/ |
 | CCSK – Certificate of Cloud Security Knowledge | CSA | ✅ Available | 207 | https://www.uaidan.com/csa-ccsk/questions/page/01/ |
 | CSSLP - Certified Secure Software Lifecycle Professional | ISC² | ✅ Available | 173 | https://www.uaidan.com/isc-csslp/questions/page/01/ |
 | CTIA - Certified Threat Intelligence Analyst | EC-COUNCIL | ✅ Available | 63 | https://www.uaidan.com/eccouncil-ctia/questions/page/01/ |
 | CND – Certified Network Defender | EC-COUNCIL | ✅ Available | 184 | https://www.uaidan.com/eccouncil-cnd/questions/page/01/ |
+| Google Professional Cloud Network Engineer | Google Cloud | ✅ Available | 85 | https://www.uaidan.com/google-professional-cloud-network-engineer/questions/page/01/ |
 | HashiCorp Certified: Terraform Associate | HashiCorp | ✅ Available | 32 | https://www.uaidan.com/hashicorp-terraform-associate/questions/page/01/ |
 | PMP - Project Management Professional | PMI | ✅ Available | 279 | https://www.uaidan.com/pmi-pmp/questions/page/01/ |
 | Cloud+ | CompTIA | 🟡 Coming soon | — | (soon) |
 | SecurityX | CompTIA | 🟡 Coming soon | — | (soon) |
 | PenTest+ | CompTIA | 🟡 Coming soon | — | (soon) |
-| Associate Cloud Engineer | Google Cloud | 🟡 Coming soon | — | (soon) |
-| Cloud Digital Leader | Google Cloud | 🟡 Coming soon | — | (soon) |
-| Professional Cloud Architect | Google Cloud | 🟡 Coming soon | — | (soon) |
-
 ---
 
 ## 📚 Growing Certification Library
