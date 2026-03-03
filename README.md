@@ -35,6 +35,7 @@ Practice instantly. No accounts. No tracking. Just learning.
 | AWS Certified Solutions Architect – Professional | AMAZON | ✅ Available | 529 | https://www.uaidan.com/aws-solutions-architect-professional/questions/page/01/ |
 | Google Professional Cloud Architect | Google Cloud | ✅ Available | 295 | https://www.uaidan.com/google-professional-cloud-architect/questions/page/01/ |
 | Google Professional Cloud Developer | Google Cloud | ✅ Available | 349 | https://www.uaidan.com/google-professional-cloud-developer/questions/page/01/ |
+| CompTIA PenTest+ | CompTIA | ✅ Available | 201 | https://www.uaidan.com/comptia-pentest/questions/page/01/ |
 | Google Cloud Digital Leader | Google Cloud | ✅ Available | 287 | https://www.uaidan.com/google-cloud-digital-leader/questions/page/01/ |
 | AZ-305 – Designing Microsoft Azure Infrastructure Solutions | MICROSOFT | ✅ Available | 178 | https://www.uaidan.com/microsoft-az305/questions/page/01/ |
 | AWS Certified Security – Specialty | AMAZON | ✅ Available | 299 | https://www.uaidan.com/aws-security-specialty/questions/page/01/ |
