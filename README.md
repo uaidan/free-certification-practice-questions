@@ -34,6 +34,7 @@ Practice instantly. No accounts. No tracking. Just learning.
 | Google Professional Cloud Security Engineer | Google Cloud | ✅ Available | 344 | https://www.uaidan.com/google-professional-cloud-security-engineer/questions/page/01/ |
 | AWS Certified Solutions Architect – Professional | AMAZON | ✅ Available | 529 | https://www.uaidan.com/aws-solutions-architect-professional/questions/page/01/ |
 | Google Professional Cloud Architect | Google Cloud | ✅ Available | 295 | https://www.uaidan.com/google-professional-cloud-architect/questions/page/01/ |
+| CompTIA SecurityX | CompTIA | ✅ Available | 204 | https://www.uaidan.com/comptia-securityx/questions/page/01/ |
 | Google Professional Cloud Developer | Google Cloud | ✅ Available | 349 | https://www.uaidan.com/google-professional-cloud-developer/questions/page/01/ |
 | CompTIA PenTest+ | CompTIA | ✅ Available | 201 | https://www.uaidan.com/comptia-pentest/questions/page/01/ |
 | Google Cloud Digital Leader | Google Cloud | ✅ Available | 287 | https://www.uaidan.com/google-cloud-digital-leader/questions/page/01/ |
